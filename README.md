@@ -1,5 +1,6 @@
 Comparative Protein Modelling 
 
+BIO INFORMATICS project for modelling of protein sequences, a datascience-machine learning related class
 
 This is my class project for Comparative Protein Modelling using Modeller 9.17
 

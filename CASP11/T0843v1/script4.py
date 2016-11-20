@@ -2,8 +2,8 @@ from modeller import *
 from modeller.automodel import *
 #from modeller import soap_protein_od
 env = environ()
-a = automodel(env, alnfile='qseq1-4zwvA.ali',
-              knowns='4zwvA', sequence='qseq1',
+a = automodel(env, alnfile='qseq1-4xauA.ali',
+              knowns='4xauA', sequence='qseq1',
               assess_methods=(assess.DOPE,
                               #soap_protein_od.Scorer(),
                               assess.GA341))

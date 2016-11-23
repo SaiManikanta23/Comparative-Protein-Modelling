@@ -1,0 +1,14 @@
+ _aln.pos         10        20        30        40        50        60
+3ux4A     MLGLVLLYVGIVLISNGICGLTKVDPKSTAVMNFFVGGLSIVCNVVVITYSALHPTAPS--------- 
+qseq1     MLGLVLLYVGIVLISNGICGLTKVDPKSTAVMNFFVGGLSIVCNVVVITYSALHPTAPVEGAEDIVQV 
+ _consrvd **********************************************************
+
+ _aln.p   70        80        90       100       110       120       130
+3ux4A     ------FYGPATGLLFGFTYLYAAINHTFGLDWRPYSWYSLFVAINTVPAAILSHYSDMLDDHKVLGI 
+qseq1     SHHLTSFYGPATGLLFGFTYLYAAINHTFGLDWRPYSWYSLFVAINTVPAAILSHYSDMLDDHKVLGI 
+ _consrvd       **************************************************************
+
+ _aln.pos  140       150       160       170       180       190
+3ux4A     TEGDWWAIIWLAWGVLWLTAFIENILKIPLGKFTPWLAIIEGILTAWIPAWLLFIQHWV 
+qseq1     TEGDWWAIIWLAWGVLWLTAFIENILKIPLGKFTPWLAIIEGILTAWIPAWLLFIQHWV 
+ _consrvd ***********************************************************

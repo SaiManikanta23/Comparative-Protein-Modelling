@@ -1,0 +1,38 @@
+Taking Model2 as output
+
+
+TM-score Results
+
+ 
+ *****************************************************************************
+ *                                 TM-SCORE                                  *
+ * A scoring function to assess the similarity of protein structures         *
+ * Based on statistics:                                                      *
+ *       0.0 < TM-score < 0.17, random structural similarity                 *
+ *       0.5 < TM-score < 1.00, in about the same fold                       *
+ * Reference: Yang Zhang and Jeffrey Skolnick, Proteins 2004 57: 702-710     *
+ * For comments, please email to: zhng@umich.edu                             *
+ *****************************************************************************
+
+Structure1: A709923     Length=  304
+Structure2: B709923     Length=  315 (by which all scores are normalized)
+Number of residues in common=  302
+RMSD of  the common residues=    0.203
+
+TM-score    = 0.9578  (d0= 6.50)
+MaxSub-score= 0.9556  (d0= 3.50)
+GDT-TS-score= 0.9579 %(d<1)=0.9556 %(d<2)=0.9587 %(d<4)=0.9587 %(d<8)=0.9587
+GDT-HA-score= 0.9540 %(d<0.5)=0.9429 %(d<1)=0.9556 %(d<2)=0.9587 %(d<4)=0.9587
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+ i          t(i)         u(i,1)         u(i,2)         u(i,3)
+ 1      0.1581114765   0.9954996512   0.0831705255  -0.0454214506
+ 2      3.0653457031  -0.0818045195   0.9961614656   0.0311505227
+ 3     -1.0166883201   0.0478379041  -0.0272946546   0.9984821164
+
+Superposition in the TM-score: Length(d<5.0)=302  RMSD=  0.20
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+AA-VLAYYSGYAGNYAALTRYAASFNAVAVDFYNITAQGAVTGNGDPAPNDAISFLLGR-IPAYGCVSNVDGNGNWSADIAHAVSTSAQSQAVANLV-FAQD-RFSGINVDFEAVAQGDRNNFSHFIQVLGRALHAKGL-LIVSVPAFSA-DENHPANYGYDLRALGAAADYLQI-SYDEAIPAWDPGPVAGSDW-EDDLDYAVERVPAAKILNGIPAYGYDW-RPGDGG-LYW-DTQALIARYGAQPRYDAGTHSLTFNYGAADGSRHTVWTENARSVALKASLVNAYGLGGTSLYALG-EDDAFWAAV-QGLAQR
+   :::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::::::::::::::::::::::::::::::::::: :::: :::::::::::::::::::::::::::::::::::: :::::::::: :::::::::::::::::::::::: ::::::::::::::::::: ::::::::::::::::::::::::::: :::::: ::: ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ::::::::: ::::::
+--MVLAYYSGYAGNYAALTRYAASFNAVAVDFYNITAQGAVTGNGDPAPNDAISFLLGRKIPAYGCVSNVDGNGNWSADIAHAVSTSAQSQAVANLVKFAQDKRFSGINVDFEAVAQGDRNNFSHFIQVLGRALHAKGLKLIVSVPAFSAKDENHPANYGYDLRALGAAADYLQIMSYDEAIPAWDPGPVAGSDWMEDDLDYAVERVPAAKILNGIPAYGYDWKRPGDGGMLYWKDTQALIARYGAQPRYDAGTHSLTFNYGAADGSRHTVWTENARSVALKASLVNAYGLGGTSLYALGMEDDAFWAAVKQGLAQR
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567

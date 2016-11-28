@@ -1,0 +1,64 @@
+ _aln.pos         10        20        30        40        50        60
+2p8q      MELITILEKTVSPDRLELEAAQKFLERAAVENLPTFLVELSRVLANPGNSQVARVAAGLQIKNSLTSK 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.p   70        80        90       100       110       120       130
+2p8q      DPDIKAQYQQRWLAIDANARREVKNYVLQTLGTETYRPSSASQCVAGIACAEIPVNQWPELIPQLVAN 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.pos  140       150       160       170       180       190       200
+2p8q      VTNPNSTEHMKESTLEAIGYICQDIDPEQLQDKSNEILTAIIQGMRKEEPSNNVKLAATNALLNSLEF 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.pos    210       220       230       240       250       260       270
+2p8q      TKANFDKESERHFIMQVVCEATQCPDTRVRVAALQNLVKIMSLYYQYMETYMGPALFAITIEAMKSD- 
+T0837     ------------------------SDTRKAIDTISNLLKIKPIYIESMLQEMGPRQTQMFIRSTSNGS 
+ _consrvd                          ***       ** **   *   *   ***      *
+
+ _aln.pos      280       290       300       310       320       330       340
+2p8q      IDEVALQGIEFWSNVCDEEMDLAIEASEAAEQGRPPEHTSKFYAKGALQYLVPILTQTLTKQDENDDD 
+T0837     AEEVRK-------------------------------------------------------------- 
+ _consrvd   **
+
+ _aln.pos        350       360       370       380       390       400
+2p8q      DDWNPCKAAGVCLMLLATCCEDDIVPHVLPFIKEHIKNPDWRYRDAAVMAFGCILEGPEPSQLKPLVI 
+T0837     -------AAYLVFIYHT------------------------------------FIKNP----SDENVE 
+ _consrvd        **                                                *        *
+
+ _aln.p  410       420       430       440       450       460       470
+2p8q      QAMPTLIELMKDPSVVVRDTAAWTVGRICELLPEAAINDVYLAPLLQCLIEGLSAEPRVASNVCWAFS 
+T0837     LWRNTLIRAQISPILAAEHTDA-------------------------------------------ALF 
+ _consrvd     ***     *      * *                                           *
+
+ _aln.pos  480       490       500       510       520       530       540
+2p8q      SLAEAAYEAADVADDQEEPATYCLSSSFELIVQKLLETTDRPDGHQNNLRSSAYESLMEIVKNSAKDC 
+T0837     YFAELDLDAFELA--Q-FRRHYNLH--FNPEPGTLLH------------------------------- 
+ _consrvd   **    *   *  *     * *   *      **
+
+ _aln.pos    550       560       570       580       590       600       610
+2p8q      YPAVQKTTLVIMERLQQVLQMESHIQSTSDRIQFNDLQSLLCATLQNVLRKVQHQDALQISDVVMASL 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.pos      620       630       640       650       660       670       680
+2p8q      LRMFQSTAGSGGVQEDALMAVSTLVEVLGGEFLKYMEAFKPFLGIGLKNYAEYQVCLAAVGLVGDLCR 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.pos        690       700       710       720       730       740
+2p8q      ALQSNIIPFCDEVMQLLLENLGNENVHRSVKPQILSVFGDIALAIGGEFKKYLEVVLNTLQQASQAQV 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.p  750       760       770       780       790       800       810
+2p8q      DKSDYDMVDYLNELRESCLEAYTGIVQGLKGDQENVHPDVMLVQPRVEFILSFIDHIAGDEDHTDGVV 
+T0837     -------------------------------------------------------------------- 
+ _consrvd
+
+ _aln.pos  820       830       840       850       860       870
+2p8q      ACAAGLIGDLCTAFGKDVLKLVEARPMIHELLTEGRRSKTNKAKTLATWATKELRKLK 
+T0837     ---------------------------------------------------------- 
+ _consrvd

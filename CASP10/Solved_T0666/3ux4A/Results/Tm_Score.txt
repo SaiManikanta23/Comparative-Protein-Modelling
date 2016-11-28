@@ -1,0 +1,36 @@
+TM-score Results
+
+ 
+ *****************************************************************************
+ *                                 TM-SCORE                                  *
+ * A scoring function to assess the similarity of protein structures         *
+ * Based on statistics:                                                      *
+ *       0.0 < TM-score < 0.17, random structural similarity                 *
+ *       0.5 < TM-score < 1.00, in about the same fold                       *
+ * Reference: Yang Zhang and Jeffrey Skolnick, Proteins 2004 57: 702-710     *
+ * For comments, please email to: zhng@umich.edu                             *
+ *****************************************************************************
+
+Structure1: A414640     Length=  180
+Structure2: B414640     Length=  195 (by which all scores are normalized)
+Number of residues in common=  180
+RMSD of  the common residues=    0.976
+
+TM-score    = 0.9118  (d0= 5.20)
+MaxSub-score= 0.9048  (d0= 3.50)
+GDT-TS-score= 0.9103 %(d<1)=0.8923 %(d<2)=0.9128 %(d<4)=0.9128 %(d<8)=0.9231
+GDT-HA-score= 0.8962 %(d<0.5)=0.8667 %(d<1)=0.8923 %(d<2)=0.9128 %(d<4)=0.9128
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+ i          t(i)         u(i,1)         u(i,2)         u(i,3)
+ 1     10.6489361952   0.9299866756  -0.3419474936   0.1348951254
+ 2     -0.0101650992   0.2805101527   0.8973256131   0.3407650191
+ 3      9.8993682217  -0.2375685953  -0.2790674751   0.9304206075
+
+Superposition in the TM-score: Length(d<5.0)=178  RMSD=  0.35
+(":" denotes the residue pairs of distance < 5.0 Angstrom)
+MLGLVLLYVGIVLISNGICGLTKVDPKSTAVMNFFVGGLSIVCNVVVITYSALHPTAP---------------SFYGPATGLLFGFTYLYAAINHTFGLDWRPYSWYSLFVAINTVPAAILSHYSDMLDDHKVLGITEGDWWAIIWLAWGVLWLTAFIENILKIPLGKFTPWLAIIEGILTAWIPAWLLFIQHWV
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::                 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+MLGLVLLYVGIVLISNGICGLTKVDPKSTAVMNFFVGGLSIVCNVVVITYSALHPTAPVEGAEDIVQVSHHLTSFYGPATGLLFGFTYLYAAINHTFGLDWRPYSWYSLFVAINTVPAAILSHYSDMLDDHKVLGITEGDWWAIIWLAWGVLWLTAFIENILKIPLGKFTPWLAIIEGILTAWIPAWLLFIQHWV
+123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345
+

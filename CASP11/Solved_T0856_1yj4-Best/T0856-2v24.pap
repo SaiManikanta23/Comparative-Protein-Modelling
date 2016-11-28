@@ -1,0 +1,14 @@
+ _aln.pos         10        20        30        40        50        60
+2v24      RPARLDQLLDMPAAGLAVQLRHAWNPEDRSLNVFVKDDDRLTFHRHPVAQSTDGIRGKVGHARGLHAW 
+T0856     ----------------------GFDPE-KAQCCLVENGQILTHGSGG---KGYGLAS-TGVTSGCYQW 
+ _consrvd                          **       *     **           *     *   *   *
+
+ _aln.p   70        80        90       100       110       120       130
+2v24      QINWPARQRGTHAVVGVATARAPLHSVGYTALVGSDAESWGWDLGRSRLYHDPGVAYPAFLGPDEAFA 
+T0856     KFYIVKENRG-NEGTCVGVSRWPVHDFNHRTT--SD--MWLYRAYSGNLYHNGEQTLT--L---SSFT 
+ _consrvd         **      *   * * *         **   *        ***         *     *
+
+ _aln.pos  140       150       160       170       180       190
+2v24      LPDSLLVVLDMDEGTLSFIVDGQYLGVAFRGLKGKKLYPVVSAVWGHCEVTMRYINGLDPE 
+T0856     QGDFITCVLDMEARTISFGKNGEEPKLAFEDVDAAELYPCVMF-YSSNPGEKVKICDMQMR 
+ _consrvd   *    ****   * **   *     **       *** *             *

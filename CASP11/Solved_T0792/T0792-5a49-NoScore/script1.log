@@ -1,0 +1,340 @@
+
+                         MODELLER 9.17, 2016/07/02, r10881
+
+     PROTEIN STRUCTURE MODELLING BY SATISFACTION OF SPATIAL RESTRAINTS
+
+
+                     Copyright(c) 1989-2016 Andrej Sali
+                            All Rights Reserved
+
+                             Written by A. Sali
+                               with help from
+              B. Webb, M.S. Madhusudhan, M-Y. Shen, G.Q. Dong,
+          M.A. Marti-Renom, N. Eswar, F. Alber, M. Topf, B. Oliva,
+             A. Fiser, R. Sanchez, B. Yerkovich, A. Badretdinov,
+                     F. Melo, J.P. Overington, E. Feyfant
+                 University of California, San Francisco, USA
+                    Rockefeller University, New York, USA
+                      Harvard University, Cambridge, USA
+                   Imperial Cancer Research Fund, London, UK
+              Birkbeck College, University of London, London, UK
+
+
+Kind, OS, HostName, Kernel, Processor: 4, Windows Vista build 7601 Service Pack 1, SAI-PC, SMP, unknown
+Date and time of compilation         : 2016/07/01 22:06:57
+MODELLER executable type             : x86_64-w64
+Job starting time (YY/MM/DD HH:MM:SS): 2016/11/29 17:40:37
+
+openf___224_> Open           $(LIB)/restyp.lib
+openf___224_> Open           ${MODINSTALL9v17}/modlib/resgrp.lib
+rdresgr_266_> Number of residue groups:        2
+openf___224_> Open           ${MODINSTALL9v17}/modlib/sstruc.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       191566     187.076     0.183
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       192094     187.592     0.183
+openf___224_> Open           ${MODINSTALL9v17}/modlib/resdih.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       240694     235.053     0.230
+rdrdih__263_> Number of dihedral angle types         :        9
+              Maximal number of dihedral angle optima:        3
+              Dihedral angle names                   :  Alph Phi Psi Omeg chi1 chi2 chi3 chi4 chi5
+openf___224_> Open           ${MODINSTALL9v17}/modlib/radii.lib
+
+Dynamically allocated memory at   amaxlibraries [B,KiB,MiB]:       253994     248.041     0.242
+openf___224_> Open           ${MODINSTALL9v17}/modlib/radii14.lib
+openf___224_> Open           ${MODINSTALL9v17}/modlib/af_mnchdef.lib
+rdwilmo_274_> Mainchain residue conformation classes:  APBLE
+openf___224_> Open           ${MODINSTALL9v17}/modlib/mnch.lib
+rdclass_257_> Number of classes:        5
+openf___224_> Open           ${MODINSTALL9v17}/modlib/mnch1.lib
+openf___224_> Open           ${MODINSTALL9v17}/modlib/mnch2.lib
+openf___224_> Open           ${MODINSTALL9v17}/modlib/mnch3.lib
+openf___224_> Open           ${MODINSTALL9v17}/modlib/xs4.mat
+rdrrwgh_268_> Number of residue types:       21
+openf___224_> Open           pdb_95.pir
+readlinef__W> File: pdb_95.pir, Line: 414
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 24773
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 24783
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 24793
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 24800
+              Modeller will only read the first 4096 characters of this line.
+
+readlinef__W> File: pdb_95.pir, Line: 24806
+              No more warnings will be printed for truncated lines in this file.
+
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       468692     457.707     0.447
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:      3307001    3229.493     3.154
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      3308843    3231.292     3.156
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      3310293    3232.708     3.157
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:      3313193    3235.540     3.160
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:     14023992   13695.305    13.374
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     14029792   13700.969    13.380
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     14041392   13712.297    13.391
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     14064592   13734.953    13.413
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:     14110992   13780.266    13.457
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:     19466392   19010.148    18.565
+
+SEQ_DATABASE_FILE         : pdb_95.pir
+SEQ_DATABASE_FORMAT       : PIR
+CHAINS_LIST               : ALL
+CLEAN_SEQUENCES           :            T
+MINMAX_DB_SEQ_LEN         :           30        4000
+Number of sequences       :        53548
+Number of residues        :     13336320
+Length of longest sequence:         3042
+
+
+SEQ_DATABASE_FILE         : pdb_95.bin
+SEQ_DATABASE_FORMAT       : BINARY
+SEARCH_CHAINS_LIST        : ALL
+Number of sequences       :        53548
+Number of residues        :     13336320
+Length of longest sequence:         3042
+
+
+SEQ_DATABASE_FILE         : pdb_95.bin
+SEQ_DATABASE_FORMAT       : BINARY
+CHAINS_LIST               : ALL
+CLEAN_SEQUENCES           :            T
+MINMAX_DB_SEQ_LEN         :            0      999999
+Number of sequences       :        53548
+Number of residues        :     13336320
+Length of longest sequence:         3042
+
+openf___224_> Open           T0792.ali
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       470612     459.582     0.449
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       472062     460.998     0.450
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       472378     461.307     0.450
+
+Read the alignment from file       : T0792.ali
+Total number of alignment positions:    80
+
+  #  Code        #_Res #_Segm PDB_code    Name
+-------------------------------------------------------------------------------
+  1      T0792      80      1       T0792
+
+Dynamically allocated memory at     amaxprofile [B,KiB,MiB]:       473023     461.937     0.451
+openf___224_> Open           ${LIB}/blosum62.sim.mat
+rdrrwgh_268_> Number of residue types:       21
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       802003     783.206     0.765
+profile_iteration_> processing sequence:       1     80      1     0.0000000     0.0000000     0.0000000     1
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       811905     792.876     0.774
+profile_iteration_> processing sequence:    5356     80      1     2.2308142     0.0004165     0.0000016  2401
+profile_iteration_> processing sequence:   10711     80      1     4.2744274     0.0003991     0.0000016  2506
+profile_iteration_> processing sequence:   16066     80      1     6.3648410     0.0003962     0.0000016  2524
+profile_iteration_> processing sequence:   21421     80      1     8.7672558     0.0004093     0.0000016  2443
+profile_iteration_> processing sequence:   26776     80      1    10.7796688     0.0004026     0.0000016  2484
+profile_iteration_> processing sequence:   32131     80      1    12.6360807     0.0003933     0.0000016  2543
+profile_iteration_> processing sequence:   37486     80      1    14.7264948     0.0003929     0.0000016  2545
+profile_iteration_> processing sequence:   42841     80      1    16.9885082     0.0003965     0.0000016  2522
+
+Dynamically allocated memory at amaxsequence_db [B,KiB,MiB]:       815197     796.091     0.777
+profile_iteration_> processing sequence:   48196     80      1    19.2037239     0.0003985     0.0000016  2510
+ AVERAGE RESIDUAL STANDARD ERROR:    18.75572
+ AVERAGE RESIDUAL STANDARD DEVIATION:    227.3647
+profile_660_> Quality of the fit between observed/expected score distributions.
+              [Iteration, Chi2, nbins, KS-Stat, nscores ] =        1,        0.0191,      121,        0.0080,    53548
+
+HISTOGRAM OF Z-SCORES:
+
+Z:         1  -3.95000   0.00000   0.00000
+Z:         1  -3.85000   0.00000   0.00000
+Z:         1  -3.75000   0.00000   0.00000
+Z:         1  -3.65000   0.00000   0.00000
+Z:         1  -3.55000   0.00000   0.00000
+Z:         1  -3.45000   0.00019   0.00000
+Z:         1  -3.35000   0.00000   0.00000
+Z:         1  -3.25000   0.00000   0.00000
+Z:         1  -3.15000   0.00000   0.00000
+Z:         1  -3.05000   0.00019   0.00000
+Z:         1  -2.95000   0.00000   0.00000
+Z:         1  -2.85000   0.00019   0.00000
+Z:         1  -2.75000   0.00000   0.00000
+Z:         1  -2.65000   0.00000   0.00000
+Z:         1  -2.55000   0.00037   0.00001
+Z:         1  -2.45000   0.00000   0.00004
+Z:         1  -2.35000   0.00037   0.00016
+Z:         1  -2.25000   0.00075   0.00055
+Z:         1  -2.15000   0.00224   0.00163
+Z:         1  -2.05000   0.00504   0.00416
+Z:         1  -1.95000   0.01064   0.00933
+Z:         1  -1.85000   0.01998   0.01872
+Z:         1  -1.75000   0.03436   0.03400
+Z:         1  -1.65000   0.06237   0.05658
+Z:         1  -1.55000   0.08572   0.08721
+Z:         1  -1.45000   0.13110   0.12565
+Z:         1  -1.35000   0.17498   0.17059
+Z:         1  -1.25000   0.22989   0.21981
+Z:         1  -1.15000   0.25416   0.27052
+Z:         1  -1.05000   0.33167   0.31973
+Z:         1  -0.95000   0.35986   0.36469
+Z:         1  -0.85000   0.39871   0.40316
+Z:         1  -0.75000   0.43083   0.43360
+Z:         1  -0.65000   0.43307   0.45519
+Z:         1  -0.55000   0.48517   0.46779
+Z:         1  -0.45000   0.47061   0.47182
+Z:         1  -0.35000   0.46706   0.46811
+Z:         1  -0.25000   0.45174   0.45775
+Z:         1  -0.15000   0.42504   0.44196
+Z:         1  -0.05000   0.41215   0.42194
+Z:         1   0.05000   0.40786   0.39889
+Z:         1   0.15000   0.35389   0.37383
+Z:         1   0.25000   0.32830   0.34769
+Z:         1   0.35000   0.32700   0.32121
+Z:         1   0.45000   0.28386   0.29500
+Z:         1   0.55000   0.27321   0.26953
+Z:         1   0.65000   0.23157   0.24513
+Z:         1   0.75000   0.22186   0.22205
+Z:         1   0.85000   0.19963   0.20043
+Z:         1   0.95000   0.18862   0.18036
+Z:         1   1.05000   0.15818   0.16185
+Z:         1   1.15000   0.15052   0.14489
+Z:         1   1.25000   0.13857   0.12944
+Z:         1   1.35000   0.11466   0.11542
+Z:         1   1.45000   0.11205   0.10275
+Z:         1   1.55000   0.09692   0.09133
+Z:         1   1.65000   0.09113   0.08109
+Z:         1   1.75000   0.06648   0.07191
+Z:         1   1.85000   0.06928   0.06371
+Z:         1   1.95000   0.05845   0.05639
+Z:         1   2.05000   0.06237   0.04988
+Z:         1   2.15000   0.04389   0.04409
+Z:         1   2.25000   0.03996   0.03895
+Z:         1   2.35000   0.03772   0.03439
+Z:         1   2.45000   0.02857   0.03035
+Z:         1   2.55000   0.02540   0.02678
+Z:         1   2.65000   0.02204   0.02361
+Z:         1   2.75000   0.02446   0.02082
+Z:         1   2.85000   0.01886   0.01835
+Z:         1   2.95000   0.02129   0.01617
+Z:         1   3.05000   0.01849   0.01424
+Z:         1   3.15000   0.01550   0.01255
+Z:         1   3.25000   0.00840   0.01105
+Z:         1   3.35000   0.00934   0.00973
+Z:         1   3.45000   0.01027   0.00857
+Z:         1   3.55000   0.00952   0.00754
+Z:         1   3.65000   0.00654   0.00664
+Z:         1   3.75000   0.00486   0.00584
+Z:         1   3.85000   0.00710   0.00514
+Z:         1   3.95000   0.00411   0.00453
+Z:         1   4.05000   0.00523   0.00398
+Z:         1   4.15000   0.00243   0.00350
+Z:         1   4.25000   0.00224   0.00308
+Z:         1   4.35000   0.00336   0.00271
+Z:         1   4.45000   0.00205   0.00239
+Z:         1   4.55000   0.00168   0.00210
+Z:         1   4.65000   0.00075   0.00185
+Z:         1   4.75000   0.00187   0.00163
+Z:         1   4.85000   0.00149   0.00143
+Z:         1   4.95000   0.00131   0.00126
+Z:         1   5.05000   0.00019   0.00111
+Z:         1   5.15000   0.00037   0.00097
+Z:         1   5.25000   0.00037   0.00086
+Z:         1   5.35000   0.00075   0.00075
+Z:         1   5.45000   0.00019   0.00066
+Z:         1   5.55000   0.00000   0.00058
+Z:         1   5.65000   0.00131   0.00051
+Z:         1   5.75000   0.00000   0.00045
+Z:         1   5.85000   0.00037   0.00040
+Z:         1   5.95000   0.00019   0.00035
+Z:         1   6.05000   0.00019   0.00031
+Z:         1   6.15000   0.00019   0.00027
+Z:         1   6.25000   0.00000   0.00024
+Z:         1   6.35000   0.00037   0.00021
+Z:         1   6.45000   0.00000   0.00018
+Z:         1   6.55000   0.00019   0.00016
+Z:         1   6.65000   0.00000   0.00014
+Z:         1   6.75000   0.00000   0.00013
+Z:         1   6.85000   0.00019   0.00011
+Z:         1   6.95000   0.00000   0.00010
+Z:         1   7.05000   0.00019   0.00009
+Z:         1   7.15000   0.00000   0.00007
+Z:         1   7.25000   0.00037   0.00007
+Z:         1   7.35000   0.00037   0.00006
+Z:         1   7.45000   0.00000   0.00005
+Z:         1   7.55000   0.00000   0.00004
+Z:         1   7.65000   0.00000   0.00004
+Z:         1   7.75000   0.00000   0.00003
+Z:         1   7.85000   0.00000   0.00003
+Z:         1   7.95000   0.00000   0.00003
+Z:         1   8.05000   0.00037   0.00002
+
+HITS FOUND IN ITERATION:     1
+
+
+Dynamically allocated memory at     amaxprofile [B,KiB,MiB]:       896197     875.192     0.855
+> 5a48B                      1     353   20350      96      80  100.00     0.0           2    80     1    80     6    85
+> 5a49A                      1     354   19050      75      80  100.00     0.0           3    75     6    80     1    75
+> 5a49B                      1     355   18850      74      80  100.00     0.0           4    74     5    78     1    74
+> 5a49D                      1     356   14500      60      80  100.00     0.0           5    60    16    78     1    60
+> 5a49G                      1     357   18600      73      80  100.00     0.0           6    73     5    77     1    73
+> 2lh9A                      1   27526    4200      78      80   34.92    0.92E-03       7    58    14    72     9    71
+> 3rcoA                      1   39601    4000      76      80   33.33    0.28E-02       8    58    14    72     7    69
+> 3RCO                       1   53543    4000      89      80   33.33    0.33E-02       9    58    14    72    14    76
+> 5CD7                       1   53545   18550      77      80   98.63     0.0          10    73     8    80     3    75
+> 2LH9                       1   53548    4200      78      80   34.92    0.92E-03      11    58    14    72     9    71
+
+profile_iteration__> Weight Matrix           [sec]:     0.000000
+profile_iteration__> Score Collection        [sec]:    21.403337
+profile_iteration__> Score Collection/Seq    [sec]:     0.000400
+profile_iteration__> DP Steps per sec    [ali/sec]:  2518.372803
+profile_iteration__> Statistics              [sec]:     0.202801
+profile_iteration__> Add to profile          [sec]:     0.000000
+profile_iteration__> Overall performance    [/seq]:     0.000405
+profile_iteration__> Overall performance [seq/sec]:  2467.679443
+openf___224_> Open           build_profile.prf
+
+Dynamically allocated memory at   amaxalignment [B,KiB,MiB]:       565855     552.593     0.540
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       566171     552.901     0.540
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       566487     553.210     0.540
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       566783     553.499     0.541
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       567075     553.784     0.541
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       567311     554.015     0.541
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       567599     554.296     0.541
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       567827     554.519     0.542
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       568055     554.741     0.542
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       568283     554.964     0.542
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       568571     555.245     0.542
+
+Dynamically allocated memory at    amaxsequence [B,KiB,MiB]:       568799     555.468     0.542
+openf___224_> Open           build_profile.ali
+
+Dynamically allocated memory at          finish [B,KiB,MiB]:       565031     551.788     0.539
+Starting time                                            : 2016/11/29 17:40:37
+Closing time                                             : 2016/11/29 17:41:46
+Total CPU time [seconds]                                 :      61.85

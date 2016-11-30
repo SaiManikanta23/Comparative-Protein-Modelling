@@ -1,0 +1,17 @@
+# Number of sequences:     11
+# Length of profile  :     80
+# N_PROF_ITERATIONS  :      1
+# GAP_PENALTIES_1D   :   -500.0   -50.0
+# MATRIX_OFFSET      : -450.0
+# RR_FILE            : ${LIB}/blosum62.sim.mat
+    1 T0792                                    S     0    80     1    80     0     0     0    0.    0.0     ESNYISVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECSESGKRIFNLKAS
+    2 5a48B                                    X     1    96     1    80     6    85    80  100.    0.0     ESNYISVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECSESGKRIFNLKAS
+    3 5a49A                                    X     1    75     6    80     1    75    75  100.    0.0     -----SVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECSESGKRIFNLKAS
+    4 5a49B                                    X     1    74     5    78     1    74    74  100.    0.0     ----ISVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECSESGKRIFNLK--
+    5 5a49D                                    X     1    60    16    78     1    60    60  100.    0.0     ---------------SEVRAILLSHAQNGITISSIKSEYRKL---PFPLHDNVTDFLLTIPNVTAECSESGKRIFNLK--
+    6 5a49G                                    X     1    73     5    77     1    73    73  100.    0.0     ----ISVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECSESGKRIFNL---
+    7 2lh9A                                    X     1    78    14    72     9    71    58   35.   0.92E-03 -------------VSKMLRAVLQSH-KNGIVLPRLQGEYRSLTGDWIPFYPTLEAYLRSVPAVVIEASRSGE--------
+    8 3rcoA                                    X     1    76    14    72     7    69    58   33.   0.28E-02 -------------VSKMLRAVLQSH-KNGVALPRLQGEYRSLTGDWIPFKQTLEAYLRSVPAVVIETSRSGE--------
+    9 3RCO                                     S     1    89    14    72    14    76    58   33.   0.33E-02 -------------VSKMLRAVLQSH-KNGVALPRLQGEYRSLTGDWIPFKQTLEAYLRSVPAVVIETSRSGE--------
+   10 5CD7                                     S     1    77     8    80     3    75    73   99.    0.0     -------REEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFMLTIPNVTAECSESGKRIFNLKAS
+   11 2LH9                                     S     1    78    14    72     9    71    58   35.   0.92E-03 -------------VSKMLRAVLQSH-KNGIVLPRLQGEYRSLTGDWIPFYPTLEAYLRSVPAVVIEASRSGE--------

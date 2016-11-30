@@ -1,0 +1,9 @@
+ _aln.pos         10        20        30        40        50        60
+3s93      ---GMSEQERIQECLRKEIRSLLISTK-DGLSPQELEKEYLLMVGNHLPLRILGYRSTMELVLDMPDV 
+T0792     ESNYISVREEYPD-IDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLH----DNVTDFLLTIPNV 
+ _consrvd      *  *        * *  * *    *        **    **  **            *  * *
+
+ _aln.p   70        80
+3s93      VRVCPGAG-GTVILKAI 
+T0792     TAECSESGKRIFNLKAS 
+ _consrvd    *   *     ***

@@ -1,0 +1,9 @@
+ _aln.pos         10        20        30        40        50        60
+5a49      -----SVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECS 
+T0792     ESNYISVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLHDNVTDFLLTIPNVTAECS 
+ _consrvd      ***************************************************************
+
+ _aln.p   70        80
+5a49      ESGKRIFNLKAS 
+T0792     ESGKRIFNLKAS 
+ _consrvd ************

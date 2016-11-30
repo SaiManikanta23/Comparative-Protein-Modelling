@@ -1,0 +1,9 @@
+ _aln.pos         10        20        30        40        50        60
+3rco      M-------LEGDLVSKMLRAVLQSHK-NGVALPRLQGEYRSLTGDWIPFKQLGFPTLEAYLRSVPAVV 
+T0792     ESNYISVREEYPDIDSEVRAILLSHAQNGITISSIKSEYRKLTGNPFPLH----DNVTDFLLTIPN-V 
+ _consrvd          *        ** * **  **        *** ***   *            *   *  *
+
+ _aln.p   70        80
+3rco      RIETSRSGEITCYAMA- 
+T0792     TAECSESGKRIFNLKAS 
+ _consrvd   * * **       *

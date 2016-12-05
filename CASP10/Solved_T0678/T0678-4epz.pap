@@ -1,0 +1,14 @@
+ _aln.pos         10        20        30        40        50        60
+4epzA     -NSLLSRALELQRMAHELMYLI------YSDEFCRLNKEVLTRSDSLFSEQSSDIEEEGNLCLALLMG 
+T0678     MNSLLSRALELQRMAHELMYLDTNGSPIYSDEFCRLNKEVLTRSDSLFSEQSSDIEEEGNLCLALLMG 
+ _consrvd  ********************       ****************************************
+
+ _aln.p   70        80        90       100       110       120       130
+4epzA     YNATIYDNGDKERKKQVILDRIYNIMSQLPASLLKMRLLTWGYSETYDEELAHEAHQLIETWNISDLT 
+T0678     YNATIYDNGDKERKKQVILDRIYNIMSQLPASLLKMRLLTWGYSETYDEELAHEAHQLIETWNISDLT 
+ _consrvd ********************************************************************
+
+ _aln.pos  140       150       160
+4epzA     DEQKEIIEELRNFEENQYPWEEVQE 
+T0678     DEQKEIIEELRNFEENQYPWEEVQE 
+ _consrvd *************************
